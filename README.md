@@ -78,7 +78,7 @@ L’idea generale è che una scuola possa risparmiare tempo nel progettazione e 
 #### Da dove iniziare
 Il primo consiglio che diamo, è quello di iniziare guardando altre scuole che hanno fatto questo lavoro prima di te. Troverai ispirazione su come scrivere i contenuti necessari per la tua scuola:
 
-[Il Liceo “Dal Piaz” di Feltre](https://liceodalpiaz.la-scuola.it/)
+[Il Liceo “Dal Piaz” di Feltre](https://liceodalpiaz.edu.it/)
 
 [L’Istituto Comprensivo Bosisio Parini di Lecco](https://comprensivobosisio.la-scuola.it/)
 
